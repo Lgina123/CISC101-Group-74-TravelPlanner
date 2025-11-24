@@ -2,6 +2,8 @@
 
 Change Log (2025-11-16): Updated restaurant to support & accommodate vegan dietary restrictions.
 
+Change Log (2025-11-23):Refined Module 2 based on AI critique—added proximity rules, dietary consistency, and theme diversity guidance.
+
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).  
 Each activity includes type, estimated duration, cost range, and distance.
 
